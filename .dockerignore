@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+.env
+.git
+.gitignore
+output.json
+*.ipynb_checkpoints/
